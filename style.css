@@ -1,17 +1,46 @@
 .nav-item{
-    width: 16%;
+    width: 20%;
     float: left;
     text-align: center;
+    margin: 5px 5px 7px 5px;
 }
 #nav{
     padding: 10px;
     margin: 10px;
+    float: left;
 }
 img{
     width: 500px;
     position: relative;
 }
+div {
+    float: right;
+    width: 50%;
+}
 #sidebar{
     float: right;
     width: 25%;
+}
+#article{
+    float: left;
+    width: 70%;
+    margin: 10px 10px 10px 20px;
+    clear: both;
+}
+#panel-photo{
+    float: left;
+}
+#class-photo{
+    float: right;
+}
+.footer-item{
+   width: 20%;
+    float: left;
+    text-align: center;
+    margin: 5px 5px 7px 5px;
+}
+.footer{
+    padding: 10px;
+    margin: 10px;
+    float: left;
 }
